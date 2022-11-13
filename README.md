@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! 👋 I am Nikodem. A Software Engineer.
+
+I’m also a huge DevOps enthusiast, rookie data engineer and tech manager with a sharp eye for delivering, maintaining and bringing products to life.
+
+[![](https://img.shields.io/badge/LinkedIn-nikodemkler-blue?style=flat-square)](https://www.linkedin.com/in/nikodemkler/)
+[![](https://img.shields.io/badge/Website-nikodem--kler.net-success?style=flat-square)](https://nikodem-kler.net)
+[![](https://img.shields.io/badge/Email-kontakt%40nikodem--kler.net-red?style=flat-square)](mailto:kontakt@nikodem-kler.net)
+
 
 <!--
 **nikodemkler/nikodemkler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
